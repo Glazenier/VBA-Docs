@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[TextBox](Access.TextBox.md)** objec
 
 ## Remarks
 
-The default setting of the **Locked** property is **True**. This setting allows editing, adding, and deleting data.
+The default setting of the **Locked** property is **FALSE**. This setting allows editing, adding, and deleting data.
 
 Use the **Locked** property to protect data in a field by making it read-only. For example, you might want a control to only display information without allowing editing, or you might want to lock a control until a specific condition is met.
 
